@@ -15,7 +15,6 @@
 //
 //  Uses portions of code from jQuery
 //  jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | jquery.org/license
-
 window.mParticle = window.mParticle || {};;
 window.mParticle.config = window.mParticle.config || {};;
 window.mParticle.config.serviceUrl = 'jssdk.mparticle.com/v2/JS/';;
